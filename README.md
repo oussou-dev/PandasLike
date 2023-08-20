@@ -9,7 +9,7 @@ Build a fully-functioning Python library similar to Pandas with TDD (PyTest)
 
 Build PandasLike, a library that implements many of the most common and useful methods found in pandas
 
-## **Goals**
+## **Objectives**
 
 - [ ] Build a fully-functioning Python library similar to pandas for data analysis
 - [ ] Built a fully-functioning Python library that is able to complete many common data analysis tasks
@@ -34,23 +34,27 @@ Build PandasLike, a library that implements many of the most common and useful m
 ## **Concepts covered in the project**
 
 
-- [] Structure for building a library from scratch
-- [] Creating and using development environments
-- [] Test-Driven development
-
+- [ ] Structure for building a library from scratch
+- [ ] Creating and using development environments
+- [ ] Test-Driven development
 
 
 
 ## **Stack used in the project**
 
-- [] conda
-- [] jupyter
-- [] VS Code
-- [] ipython kernels
-- [] git
-- [] pytest
-- [] numpy
+- [ ] conda
+- [ ] jupyter
+- [ ] VS Code
+- [ ] ipython kernels
+- [ ] git
+- [ ] pytest
+- [ ] numpy
 
+## **Requirements**
+
+- [ ] Python 3.6+ along with NumPy, Pandas, and Jupyter Notebook
+- [ ] Recommended to have pytest installed
+- [ ] An editor such as PyCharm or VS Code
 
 
 ## **Takeaways from the project**
