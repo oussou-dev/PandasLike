@@ -1,0 +1,6 @@
+name: pandas_like
+dependencies:
+- python=3.10
+- pandas
+- pytest
+- jupyter
